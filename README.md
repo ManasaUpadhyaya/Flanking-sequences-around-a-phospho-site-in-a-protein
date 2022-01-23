@@ -1,0 +1,1 @@
+# Python-script-for-capturing-flanking-sequences-around-an-indicated-phopho-site-in-a-protein-
