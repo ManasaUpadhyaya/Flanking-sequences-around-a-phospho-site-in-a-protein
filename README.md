@@ -1,4 +1,4 @@
-# Pythonscript for capturing flanking sequences around an indicated phophosite in a protein
+# Python script for capturing flanking sequences around an indicated phophosite in a protein
 Input:
 Excel sheet with the phosphosites mentioned for every peptide accession number. 
 File with all the accession numbers of the protein 
